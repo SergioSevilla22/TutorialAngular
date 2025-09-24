@@ -1,0 +1,20 @@
+.brand-name {
+  background-color: white;
+  position: relative;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .brand-logo {
+    width: 80px;         /* Tamaño pequeño (ajústalo a gusto) */
+    height: auto;        /* Mantiene la proporción */
+    display: block;      /* Evita que el logo tenga espacios debajo */
+  }
+
+  .body{
+    background-color: #f9f9f9; /* Fondo general clarito */
+    margin: 0;
+  }
+
+  
+
