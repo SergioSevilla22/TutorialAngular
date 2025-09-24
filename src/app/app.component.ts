@@ -9,5 +9,5 @@ import {Home } from './home/home.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'homes';
+  title = 'homes';   
 }
